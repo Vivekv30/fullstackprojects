@@ -1,0 +1,5 @@
+pom
+---
+maven repository
+local re->
+remote re->
